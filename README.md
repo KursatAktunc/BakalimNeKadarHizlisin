@@ -5,6 +5,25 @@ Malesef 2020 yıllı civarı yapmaya uğraştığım bu uygulamaları GitHub üz
 
 # Ekran Görüntüleri
 
+<p align="center">
+  <img src="Screenshots/1.png" width="250" alt="1">
+  <img src="Screenshots/2.png" width="250" alt="2">
+  <img src="Screenshots/3.png" width="250" alt="3">
+</p>
+
+<p align="center">
+  <img src="Screenshots/4.png" width="250" alt="4">
+  <img src="Screenshots/5.png" width="250" alt="5">
+  <img src="Screenshots/6.png" width="250" alt="6">
+</p>
+
+<p align="center">
+  <img src="Screenshots/7.png" width="250" alt="7">
+  <img src="Screenshots/8.png" width="250" alt="8">
+  <img src="Screenshots/9.png" width="250" alt="9">
+  <img src="Screenshots/1.png" width="250" alt="10">
+</p>
+
 ![1](https://user-images.githubusercontent.com/81999538/169715988-f497cd05-03a2-46d5-bf38-07bb7e226f22.png)
 ![2](https://user-images.githubusercontent.com/81999538/169715992-1e2253fd-af2a-4da8-93fa-cf92b39ea88e.png)
 ![3](https://user-images.githubusercontent.com/81999538/169715995-f5b133fc-7125-4974-8fa1-196073e3492c.png)
